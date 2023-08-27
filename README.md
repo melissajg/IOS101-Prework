@@ -4,7 +4,7 @@ Submitted by: Melissa Gaines
 
 IOS101-Prework is an app that have static text and a dynamic button that changes color of background when pressed. 
 
-Time spent: 2 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
